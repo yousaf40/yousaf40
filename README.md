@@ -1,23 +1,23 @@
-==> Hi, I'm Yousaf! 👋
- 
-💻 Computer Science Student | Aspiring Cybersecurity Professional
+# Hi, I'm Yousaf! 👋
+
+### 💻 Computer Science Student | Aspiring Cybersecurity Professional
 
 I'm a Computer Science student passionate about programming, Linux, networking, and cybersecurity.
 
 Currently, I'm building my technical foundation through hands-on learning, coding practice, and exploring cybersecurity tools. My goal is to develop practical skills, create useful projects, and grow into a cybersecurity professional.
 
+---
+
+## 🚀 What I'm Learning
+
+* 💻 **Programming:** C++ and programming fundamentals
+* 🐧 **Operating Systems:** Linux and Kali Linux
+* 🌐 **Networking:** Computer networking fundamentals
+* 🔐 **Cybersecurity:** Security fundamentals and ethical hacking
+* 🧠 **Problem Solving:** Improving logical thinking through programming
 
 
-==> 🚀 What I'm Learning
-
-* 💻 Programming: C++ and programming fundamentals
-* 🐧 Operating Systems: windows, Linux and Kali Linux
-* 🌐 Networking: Computer networking fundamentals
-* 🔐 Cybersecurity: Security fundamentals and ethical hacking
-* 🧠 Problem Solving: Improving logical thinking through programming
-
-
-==> 🎯 Current Goals
+## 🎯 Current Goals
 
 * Strengthen my C++ programming skills.
 * Develop a solid understanding of Linux and networking.
@@ -25,7 +25,7 @@ Currently, I'm building my technical foundation through hands-on learning, codin
 * Build projects that demonstrate my skills and progress.
 * Explore ethical hacking and penetration testing in authorized environments.
 
-==> 📂 What You'll Find Here
+## 📂 What You'll Find Here
 
 My repositories will document my learning journey, including:
 
@@ -35,14 +35,14 @@ My repositories will document my learning journey, including:
 * Cybersecurity study notes and authorized lab exercises
 * Personal projects as I develop my skills
 
-==> 📈 My Philosophy
+## 📈 My Philosophy
 
 > Learn the fundamentals. Practice consistently. Build real projects. Keep improving.
 
 I'm at the beginning of my technical journey, and I'm focused on learning the right way, one project at a time.
 
- ==>🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in learning from other developers, connecting with cybersecurity enthusiasts, and collaborating on beginner-friendly projects.
 
-Thanks for visiting my profile!⭐
+**Thanks for visiting my profile!** ⭐
